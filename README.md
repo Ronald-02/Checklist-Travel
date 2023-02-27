@@ -1,2 +1,2 @@
 # Checklist-Travel
-Checklist de Viagem
+Projeto Final Individual - Case 1
